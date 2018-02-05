@@ -1,21 +1,12 @@
 apiVersion: v1
 entries:
-  NofificationChart:
-  - apiVersion: v1
-    created: 2018-02-04T22:50:48.305237486-08:00
-    description: A Helm chart for Kubernetes
-    digest: 9edb7894e684cf6fdeb0ea99c4a52599e9c91ddf7924b7349b97144f2516e3b7
-    name: NofificationChart
-    urls:
-    - https://YuLiminStockTrader.github.io/ICPStockTraderChart/NofificationChart-0.1.0.tgz
-    version: 0.1.0
   NotificationChart:
   - apiVersion: v1
-    created: 2018-02-04T22:50:48.305570397-08:00
+    created: 2018-02-04T23:16:24.073362053-08:00
     description: A Helm chart for Kubernetes
     digest: a4fc13fb2c4df8bc2824cec1a10b3d0f068160ed2dd0949811d40cbe19d3590e
     name: NotificationChart
     urls:
     - https://YuLiminStockTrader.github.io/ICPStockTraderChart/NotificationChart-0.1.0.tgz
     version: 0.1.0
-generated: 2018-02-04T22:50:48.304572399-08:00
+generated: 2018-02-04T23:16:24.072969309-08:00
